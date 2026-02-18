@@ -1,0 +1,12 @@
+myVar
+_contador
+__init__
+valor123
+3invalid
+hola_mundo
+X
+x1y2z3
+CamelCase
+snake_case
+123abc
+$invalido

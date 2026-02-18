@@ -1,0 +1,10 @@
+services:
+  flex:
+    build: .
+    volumes:
+      # Mount current directory to /workspace for your .l files
+      - ./workspace:/workspace
+    working_dir: /workspace
+    # Override command to keep container running for interactive use
+    stdin_open: true
+    tty: true

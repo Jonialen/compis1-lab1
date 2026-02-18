@@ -1,0 +1,35 @@
+// Item 2: literales numericos
+42
+3.14
+.5
+2.998e8
+6.022E+23
+1e-10
+0xFF
+0xDEADBEEF
+
+// Item 3: operadores aritmeticos, relacionales y logicos
+a + b - c * d / e
+x == y
+x != y
+x < y
+x > y
+x <= y
+x >= y
+cond && flag
+cond || flag
+!done
+
+// Item 4: comentarios
+// esto es un comentario de linea
+/* esto es un
+   comentario de
+   bloque */
+
+// Item 5: cadenas literales con secuencias de escape
+"hola mundo"
+"con escape: \n nueva linea"
+"tabulacion: \t aqui"
+"comilla: \" dentro"
+"barra: \\ doble"
+"cadena vacia: "
